@@ -1,0 +1,5 @@
+﻿FluentInstall.spec
+dist
+app/__pycache__
+backend/__pycache__
+build
